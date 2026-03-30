@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_1.2 - Test Design Techniques/EP.md",
+                "file": "Module_1 - SDLC & STLC/WaterFall_Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EP"
+              "title": "WaterFall_Model"
             }
           }
         ]
@@ -103,88 +103,11 @@
     "type": "split",
     "children": [
       {
-        "id": "875bc66bb8dabb2c",
+        "id": "cf5bca7f09c0df27",
         "type": "tabs",
         "children": [
           {
-            "id": "00cca530612912d3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Module 1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Module 1"
-            }
-          },
-          {
-            "id": "731ab2b717f9b5c7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Module_1.2 - Test Design Techniques/EP.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from EP"
-            }
-          },
-          {
-            "id": "db15259969a09ee4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "1d278f9fc2417d45",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "03d9cc1f55b37dec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Module 1.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Module 1"
-            }
-          },
-          {
-            "id": "d32886a3914fca46",
+            "id": "2afe9402f8a5d248",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -193,8 +116,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,10 +139,11 @@
   "active": "f0c70cc91694516a",
   "lastOpenFiles": [
     "Module_1.2 - Test Design Techniques/Boundary Value Analysis (BVA).md",
+    "Module_1.2 - Test Design Techniques/Decision_Table.md",
     "Module_1.2 - Test Design Techniques/State_Transition.md",
     "Module_1.2 - Test Design Techniques/EP.md",
-    "Module_1.2 - Test Design Techniques/Decision_Table.md",
     "Decision_Table.md",
+    "Software_Testing",
     "State_Transition.md",
     "Module_1 - Test Design Techniques/Boundary Value Analysis.md",
     "Module_1 - SDLC & STLC/Agile.md",
