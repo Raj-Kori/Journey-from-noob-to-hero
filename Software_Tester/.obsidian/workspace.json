@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_1 - SDLC & STLC/WaterFall_Model.md",
+                "file": "Module_1.2 - Test Design Techniques/EP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WaterFall_Model"
+              "title": "EP"
             }
           }
         ]
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module_1 - SDLC & STLC/WaterFall_Model.md",
+                "file": "Module_1.2 - Test Design Techniques/EP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WaterFall_Model"
+              "title": "Outgoing links from EP"
             }
           },
           {
@@ -216,11 +216,19 @@
   },
   "active": "f0c70cc91694516a",
   "lastOpenFiles": [
-    "SDLC.md",
-    "Module_1 - SDLC & STLC/WaterFall_Model.md",
-    "Module_1 - SDLC & STLC/Testing_Phases.md",
-    "Module_1 - SDLC & STLC/Scrum.md",
+    "Module_1.2 - Test Design Techniques/Boundary Value Analysis (BVA).md",
+    "Module_1.2 - Test Design Techniques/State_Transition.md",
+    "Module_1.2 - Test Design Techniques/EP.md",
+    "Module_1.2 - Test Design Techniques/Decision_Table.md",
+    "Decision_Table.md",
+    "State_Transition.md",
+    "Module_1 - Test Design Techniques/Boundary Value Analysis.md",
     "Module_1 - SDLC & STLC/Agile.md",
+    "Module_1 - SDLC & STLC/Scrum.md",
+    "Module_1.2 - Test Design Techniques",
+    "Module_1 - SDLC & STLC/WaterFall_Model.md",
+    "SDLC.md",
+    "Module_1 - SDLC & STLC/Testing_Phases.md",
     "Software Testing Life Cycle (STLC).md",
     "Welcome.md",
     "Waterfall Model.md",
