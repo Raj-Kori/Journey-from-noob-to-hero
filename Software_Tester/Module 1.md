@@ -45,7 +45,7 @@ A[Requirements] --> B[Design]
 B --> C[Implementation]
 C --> D[Testing]
 D --> E[Deployment]
-E --> F[Maintenance]
+E --> F[Maintenance] 
 ```
 
 ---
