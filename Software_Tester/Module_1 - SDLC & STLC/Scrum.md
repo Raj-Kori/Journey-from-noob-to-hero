@@ -176,13 +176,11 @@ F --> B
 
 # 🔗 Related Notes
 
-- [[Agile Testing]]
+- [[Agile]]
     
-- [[Waterfall Model]]
+- [[WaterFall_Model]]
     
-- [[Software Testing Life Cycle (STLC)]]
+- [[Testing_Phases]]
     
-- [[SDLC]]
-    
-
+- [[Scrum]]
 ---

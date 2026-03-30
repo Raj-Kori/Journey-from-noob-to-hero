@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_1/Testing_Phases.md",
+                "file": "Module_1 - SDLC & STLC/WaterFall_Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing_Phases"
+              "title": "WaterFall_Model"
             }
           }
         ]
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module_1/Testing_Phases.md",
+                "file": "Module_1 - SDLC & STLC/WaterFall_Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Testing_Phases"
+              "title": "Outgoing links from WaterFall_Model"
             }
           },
           {
@@ -216,16 +216,18 @@
   },
   "active": "f0c70cc91694516a",
   "lastOpenFiles": [
-    "Module_1/WaterFall_Model.md",
-    "Module_1/Scrum.md",
-    "Module_1/Testing_Phases.md",
-    "Module_1/Agile.md",
+    "SDLC.md",
+    "Module_1 - SDLC & STLC/WaterFall_Model.md",
+    "Module_1 - SDLC & STLC/Testing_Phases.md",
+    "Module_1 - SDLC & STLC/Scrum.md",
+    "Module_1 - SDLC & STLC/Agile.md",
+    "Software Testing Life Cycle (STLC).md",
     "Welcome.md",
     "Waterfall Model.md",
     "Untitled.base",
     "Testing_Phases.md",
     "Testing Phases.md",
     "Agile.md",
-    "Module_1"
+    "Module_1 - SDLC & STLC"
   ]
 }

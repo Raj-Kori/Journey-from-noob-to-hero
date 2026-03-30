@@ -313,15 +313,11 @@ Q3 --> Q4
 
 # 🔗 Related Notes
 
-- [[Waterfall Model]]
+- [[Agile]]
     
-- [[Agile Testing]]
-    
-- [[Scrum]]
-    
-- [[SDLC]]
+- [[WaterFall_Model]]
     
 - [[Testing_Phases]]
     
-
+- [[Scrum]]
 ---

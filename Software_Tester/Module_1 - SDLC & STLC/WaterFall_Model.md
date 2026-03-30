@@ -21,12 +21,12 @@ tags:
 
 ## 🧠 Overview
 
-|Attribute|Description|
-|---|---|
-|Type|Linear SDLC Model|
-|Flexibility|Low|
-|Risk Handling|Predictable|
-|Best For|Stable & well-defined projects|
+| Attribute     | Description                    |
+| ------------- | ------------------------------ |
+| Type          | Linear SDLC Model              |
+| Flexibility   | Low                            |
+| Risk Handling | Predictable                    |
+| Best For      | Stable & well-defined projects |
 
 ---
 
@@ -140,11 +140,11 @@ E --> F[Maintenance]
 > [!success]  
 > Post-release support and updates
 
-|Type|Description|
-|---|---|
-|🔴 Corrective|Fix bugs|
-|🟡 Perfective|Improve features|
-|🔵 Adaptive|Support new systems|
+| Type          | Description         |
+| ------------- | ------------------- |
+| 🔴 Corrective | Fix bugs            |
+| 🟡 Perfective | Improve features    |
+| 🔵 Adaptive   | Support new systems |
 
 ---
 
@@ -264,13 +264,11 @@ E --> F[Maintenance]
 ---
 # 🔗 Related Notes
 
-- [[Agile Testing]]
+- [[Agile]]
     
-- [[Waterfall Model]]
+- [[WaterFall_Model]]
     
-- [[Software Testing Life Cycle (STLC)]]
+- [[Testing_Phases]]
     
-- [[SDLC]]
-    
-
+- [[Scrum]]
 ---
