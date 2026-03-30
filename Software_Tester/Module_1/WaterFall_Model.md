@@ -263,9 +263,14 @@ E --> F[Maintenance]
     
 ---
 # 🔗 Related Notes
-- [[Agile]]
-- [[Scrum]]
+
+- [[Agile Testing]]
+    
+- [[Waterfall Model]]
+    
+- [[Software Testing Life Cycle (STLC)]]
+    
 - [[SDLC]]
-- [[Testing_Phases]]
+    
 
 ---

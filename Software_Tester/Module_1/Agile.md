@@ -1,5 +1,5 @@
 ---
-title: Module 1 - SDLC / STLC
+title: Module 1 - Agile
 start_date: 2026-03-20
 end_date: 2026-04-19
 tags:
@@ -313,9 +313,15 @@ Q3 --> Q4
 
 # 🔗 Related Notes
 
-##### - [[Agile]]
-##### - [[Scrum]]
-##### - [[SDLC]]
-##### - [[Testing_Phases]]
+- [[Waterfall Model]]
+    
+- [[Agile Testing]]
+    
+- [[Scrum]]
+    
+- [[SDLC]]
+    
+- [[Testing_Phases]]
+    
 
 ---

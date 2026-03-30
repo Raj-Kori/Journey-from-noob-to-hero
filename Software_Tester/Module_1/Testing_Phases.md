@@ -157,13 +157,12 @@ E --> F[Test Closure]
 
 # 🔗 Related Notes
 
-- [[Waterfall Model]]
-    
 - [[Agile Testing]]
     
-- [[Scrum]]
+- [[Waterfall Model]]
+    
+- [[Software Testing Life Cycle (STLC)]]
     
 - [[SDLC]]
     
-
 ---
