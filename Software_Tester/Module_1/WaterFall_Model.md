@@ -2,7 +2,12 @@
 title: Module 1 - SDLC / STLC
 start_date: 2026-03-20
 end_date: 2026-04-19
-tags: [QA, SDLC, STLC, SoftwareTesting]
+tags:
+  - SDLC
+  - Agile
+  - Scrum
+  - WaterFall_Model
+  - Testing_Phases
 ---
 
 # 🌊 Waterfall Model
@@ -256,33 +261,11 @@ E --> F[Maintenance]
     
 - Update security
     
-
 ---
-
-## 🧩 Pro Tips (For Your Notes System)
-
-> [!tip]
-
-- Use **Tags**:
-    
-    ```
-    #SDLC #Waterfall #SoftwareTesting
-    ```
-    
-- Create backlinks:
-    
-    ```
-    [[SDLC Models]]
-    [[Agile Model]]
-    ```
-    
-- Add this for navigation:
-    
-    ```
-    ## 📌 Related Notes
-    - [[Agile Model]]
-    - [[V Model]]
-    ```
-    
+# 🔗 Related Notes
+- [[Agile]]
+- [[Scrum]]
+- [[SDLC]]
+- [[Testing_Phases]]
 
 ---
