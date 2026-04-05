@@ -6,7 +6,7 @@
       {
         "id": "c2b3238e67945101",
         "type": "tabs",
-        "dimension": 76.45939086294416,
+        "dimension": 55.72100313479624,
         "children": [
           {
             "id": "f0c70cc91694516a",
@@ -27,7 +27,7 @@
       {
         "id": "e15e28e124b62fc8",
         "type": "tabs",
-        "dimension": 23.54060913705584,
+        "dimension": 44.278996865203766,
         "children": [
           {
             "id": "3c8c171274c9a5a7",
@@ -213,7 +213,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f0c70cc91694516a",
+  "active": "2afe9402f8a5d248",
   "lastOpenFiles": [
     "Module_1.2 - Test Design Techniques/Boundary Value Analysis (BVA).md",
     "Module_1.2 - Test Design Techniques/Decision_Table.md",
