@@ -6,7 +6,7 @@
       {
         "id": "c2b3238e67945101",
         "type": "tabs",
-        "dimension": 55.72100313479624,
+        "dimension": 55.721003134796234,
         "children": [
           {
             "id": "f0c70cc91694516a",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_1 - SDLC & STLC/WaterFall_Model.md",
+                "file": "Module_1.3- Test Documentation/Test_Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WaterFall_Model"
+              "title": "Test_Case"
             }
           }
         ]
@@ -210,11 +210,18 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "2afe9402f8a5d248",
+  "active": "f0c70cc91694516a",
   "lastOpenFiles": [
+    "Module_1.3- Test Documentation/Test_Plan.md",
+    "Module_1.3- Test Documentation/Test_Case.md",
+    "Module_1 - SDLC & STLC/Agile.md",
+    "Module_1.3- Test Documentation/Test-plan.md",
+    "Module_1 - SDLC & STLC/WaterFall_Model.md",
+    "Module_1.3- Test Documentation",
     "Module_1.2 - Test Design Techniques/Boundary Value Analysis (BVA).md",
     "Module_1.2 - Test Design Techniques/Decision_Table.md",
     "Module_1.2 - Test Design Techniques/State_Transition.md",
@@ -223,10 +230,8 @@
     "Software_Testing",
     "State_Transition.md",
     "Module_1 - Test Design Techniques/Boundary Value Analysis.md",
-    "Module_1 - SDLC & STLC/Agile.md",
     "Module_1 - SDLC & STLC/Scrum.md",
     "Module_1.2 - Test Design Techniques",
-    "Module_1 - SDLC & STLC/WaterFall_Model.md",
     "SDLC.md",
     "Module_1 - SDLC & STLC/Testing_Phases.md",
     "Software Testing Life Cycle (STLC).md",
